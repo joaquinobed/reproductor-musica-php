@@ -43,6 +43,8 @@ Un reproductor de música web moderno, ligero y potente construido con **PHP 8**
 
 ## 📸 Capturas de Pantalla
 
+![Reproductor de Música PHP](./reproductor-musica-php.png)
+
 *Diseño oscuro elegante con tarjetas de cristal (Glassmorphism), visualizador de ondas integrado en la portada del álbum y navegación lateral fluida.*
 
 ---

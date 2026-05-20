@@ -1,6 +1,5 @@
-/audio/*
-/uploads/covers/*
-!/audio/.gitkeep
-!/uploads/covers/.gitkeep
 database.sqlite
-.DS_Store
+audio/*
+uploads/covers/*
+!audio/.gitkeep
+!uploads/covers/.gitkeep
